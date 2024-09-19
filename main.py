@@ -5,7 +5,7 @@ import requests
 import bs4
 import datetime
 
-# admin123
+
 connect = sqlite3.connect('TizExchange')
 cursor = connect.cursor()
 
